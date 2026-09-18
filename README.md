@@ -1,15 +1,3 @@
-# @xmoonvii — Profile Website
-
-A single-file, static HTML profile website. No frameworks, no build step — just open the file in a browser or drop it on any static host.
-
-## How to use
-
-1. Copy the HTML below into a file named `index.html`.
-2. Open it in any browser, or upload it to any static host (GitHub Pages, Netlify, Carrd, etc.).
-
-## Full source (`index.html`)
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,11 +161,3 @@ A single-file, static HTML profile website. No frameworks, no build step — jus
   </div>
 </body>
 </html>
-```
-
-## Customizing
-
-- **Colors:** edit the CSS variables at the top (`--bg`, `--text`, `--border`, `--white`).
-- **Images:** replace the two `<img src="...">` URLs with your own image links.
-- **Links:** update the `href="#"` placeholders in the links list and anime list.
-- **Text:** edit any of the text inside the `<p>`, `<h2>`, `<h3>`, and `<span>` tags.
